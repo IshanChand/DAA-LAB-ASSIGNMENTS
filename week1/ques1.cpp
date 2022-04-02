@@ -3,7 +3,6 @@ using namespace std;
 void bsearch(int arr[],int n,int key)
 {
     int l=0,r=n-1,c=0;
-
     while(l<=r)
     {
         c++;
